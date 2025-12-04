@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: BinDabei.app
+title: ijoin.app
 
 # Your name to show in the footer
-author: BinDabei-Team
+author: iJoin-Team
 
 youtubeurl: https://www.youtube.com/@Der-KI-Fl%C3%BCsterer
 
@@ -52,7 +52,7 @@ round-avatar: false
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "office@bindabei.app"
+  email: "office@ijoin.app"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
 #  github: daattali
@@ -88,7 +88,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: BinDabei.app - Verabredungen Super-Simple!
+rss-description: ijoin.app - 预约超级简单！
 
 ###########################
 # --- General options --- #
@@ -104,7 +104,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "BinDabei.app"
+url-pretty: "ijoin.app"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -305,3 +305,6 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
+
+language: zh
+rss_description: ijoin.app - 预约超级简单！
